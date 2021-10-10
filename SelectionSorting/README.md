@@ -1,0 +1,1 @@
+RUN IN DEBUG x64 to avoid security popups
