@@ -1,1 +1,2 @@
-RUN IN DEBUG x64 to avoid security popups
+asc & desc sorting
+asc & desc sorting by odd then even
